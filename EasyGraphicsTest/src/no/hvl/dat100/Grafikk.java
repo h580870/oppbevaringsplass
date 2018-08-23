@@ -5,7 +5,6 @@ import easygraphics.*;
 public class Grafikk extends EasyGraphics {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 			launch (args);
 	}
 	
